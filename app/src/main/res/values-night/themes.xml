@@ -1,0 +1,9 @@
+<resources>
+    <!--
+    Base application theme for API 23+ (night).
+    This theme is the starting point for your app, and it must be configured to be a valid
+    theme with no action bar and a transparent status bar. This is required so that our
+    `PokedexTheme` can take full control of the UI.
+    -->
+    <style name="Theme.Pokedex" parent="android:Theme.Material.NoActionBar" />
+</resources>
